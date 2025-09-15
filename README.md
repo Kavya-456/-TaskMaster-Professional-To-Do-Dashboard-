@@ -1,4 +1,4 @@
-# -TaskMaster-Professional-To-Do-Dashboard-
+# -TaskMaster-To-Do-Dashboard-
 TaskMaster is a professional, slide-by-slide To-Do List Manager built with Python and Tkinter. Add, view, mark done, and delete tasks with a colorful, interactive GUI. Tasks are saved in JSON for persistent storage, offering a modern, user-friendly task management experience.
 
 ## Features
@@ -26,18 +26,10 @@ git clone <repository_url>
 cd TaskMaster
 
 3. Run the application
-cd TaskMaster
-
-3. Run the application
+cd list.py
 
 
-
-python todo_dashboard.py
-
-
----
-
-Usage
+## Usage
 
 Navigate through slides using Next / Back buttons
 Add tasks in the “Add Task” slide
@@ -46,9 +38,7 @@ Exit the app using the Summary slide
 
 
 
----
-
-Future Enhancements
+## Future Enhancements
 
 Add due dates and priority levels for tasks
 Export tasks to PDF or Excel
@@ -57,18 +47,10 @@ Animated transitions between slides
 
 
 
----
-
-Contributing
+## Contributing
 
 Contributions are welcome!
 1. Fork the repository
 2. Make your changes
 3. Submit a pull request
 
-
-
-
-
-
-Do you want me to do that next?
